@@ -1,0 +1,9 @@
+meyda.sublime-project
+meyda.sublime-workspace
+LICENSE
+coverage
+npm-debug.log
+node_modules
+audio
+.env
+*.out
